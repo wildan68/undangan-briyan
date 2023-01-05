@@ -3,9 +3,11 @@ import db from './database/query'
 export default defineEventHandler(async (event) => {
   // const body = await readBody(event)
   const resp = await db('SELECT * FROM briyan')
-  // console.log(resp[0].id)
-  // const query = getQuery(event)
+  //   const query = getQuery(event)
+  // reverse array resp
+  resp.reverse()
   return {
-    test: 'Hellow ' + resp[0].name,
+    status: 200,
+    data: resp,
   }
 })
