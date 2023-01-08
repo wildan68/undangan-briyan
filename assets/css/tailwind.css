@@ -22,7 +22,7 @@ body {
 
 /* width */
 ::-webkit-scrollbar {
-  width: 10px;
+  width: 4px;
   background-color: #FFC294;
 }
 
@@ -30,7 +30,7 @@ body {
 /* Handle */
 ::-webkit-scrollbar-thumb {
   background: #6A2E00; 
-  border-radius: 10px;
+  border-radius: 4px;
 }
 
 /* Handle on hover */

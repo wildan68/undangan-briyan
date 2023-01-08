@@ -35,12 +35,12 @@
       <div class="lg:w-[1400px] lg:h-[1400px] w-[500px] h-[500px] bg-[#FFD8BA] rounded-full" />
     </div>
     <div
-      class="z-20 flex flex-col items-center w-full lg:mt-24 gap-12"
+      class="z-20 flex flex-col items-center w-full lg:mt-24 gap-6 lg:gap-12"
       data-aos="fade-down"
       data-aos-easing="linear"
       data-aos-duration="500"
     >
-      <span class="lg:text-8xl text-2xl font-2">Undangan Khitanan</span>
+      <span class="lg:text-8xl text-3xl font-2">Undangan Khitanan</span>
       <div class="lg:px-14 px-4 py-3 lg:py-7 bg-[#FFE0D3] lg:rounded-3xl rounded-2xl">
         <span class="text-transparent bg-clip-text bg-gradient-to-r from-[#C35200] to-[#FFAB6A] font-2 lg:text-6xl text-2xl">
           Alfonsus Briyan Rajendra Hartono
@@ -68,7 +68,7 @@
       class="z-20 flex flex-col items-center w-full mt-12 lg:mt-24 gap-4 lg:gap-12"
       data-aos="fade-down"
     >
-      <div class="px-14 py-7 text-center rounded-3xl flex flex-col gap-4 lg:gap-8">
+      <div class="px-6 lg:px-14 py-7 text-center rounded-3xl flex flex-col gap-4 lg:gap-8">
         <div class="text-2xl lg:text-4xl leading-10 lg:leading-[60px]">
           Puji Syukur atas limpahan dan berkat-nya 
           di Khitan Alfonsus Briyan Rajendra Hartono Putra dari
@@ -85,7 +85,7 @@
     </div>
     <!--  -->
     <div class="relative w-full flex flex-col items-center mt-48">
-      <div class="w-1/2 absolute right-0 bottom-0 mx-[-112px] flex flex-col gap-8 items-end">
+      <div class="w-1/2 absolute right-0 bottom-0 lg:mx-[-112px] flex flex-col gap-8 items-end">
         <div class="bg-[#F4A970]  rounded-tl-3xl rounded-bl-3xl h-[75px] w-full" />
         <div class="bg-[#F4A970]  rounded-tl-3xl rounded-bl-3xl h-[75px] w-[80%]" />
       </div>
@@ -104,7 +104,7 @@
     </div>
     <!--  -->
     <div
-      class="w-full min-h-[435px] bg-[#FFD8BA] mt-40 p-20 rounded-[48px] flex justify-between relative lg:flex-row flex-col-reverse"
+      class="w-full min-h-[435px] bg-[#FFD8BA] mt-24 lg:mt-40 p-3 lg:p-20 rounded-2xl lg:rounded-[48px] flex justify-between relative lg:flex-row flex-col-reverse"
       data-aos="fade-right"
       data-aos-offset="300"
       data-aos-easing="ease-in-sine"
@@ -119,9 +119,9 @@
         <img src="/save-the-date.png">
       </div>
       <div class="flex-1 flex flex-col items-center gap-6 lg:gap-12 justify-center lg:mt-0 mt-6">
-        <span class="text-3xl lg:text-5xl">Sabtu, 14 Januari 2023</span>
-        <span class="text-3xl lg:text-5xl">Gedung Aula SD Pius</span>
-        <span class="text-3xl lg:text-5xl text-center leading-[60px]">
+        <span class="text-2xl lg:text-5xl">Sabtu, 14 Januari 2023</span>
+        <span class="text-2xl lg:text-5xl">Gedung Aula SD Pius</span>
+        <span class="text-2xl lg:text-5xl text-center leading-[60px]">
           Jl. Kapten Ismail No. 120
           Kota Tegal
         </span>
