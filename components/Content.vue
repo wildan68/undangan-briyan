@@ -179,9 +179,9 @@
     <div
       class="mx-auto flex flex-col items-center gap-4 lg:gap-8 mt-24 z-20"
     >
-      <span class="text-2xl lg:text-4xl">Kami Yang Berbahagia</span>
-      <span class="text-4xl lg:text-6xl text-center">Kel. Bpk Mateus Priyo Indra Hartono, SE</span>
-      <span class="text-3xl lg:text-4xl text-center">Citraland Blok B5 No. 26 Kota Tegal</span>
+      <span class="text-xl lg:text-4xl">Kami Yang Berbahagia</span>
+      <span class="text-3xl lg:text-6xl text-center">Kel. Bpk Mateus Priyo Indra Hartono, SE</span>
+      <span class="text-2xl lg:text-4xl text-center">Citraland Blok B5 No. 26 Kota Tegal</span>
     </div>
     <!--  -->
     <div class="relative w-full z-0">
