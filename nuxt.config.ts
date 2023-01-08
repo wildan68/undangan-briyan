@@ -37,6 +37,19 @@ export default defineNuxtConfig({
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       ],
       title: 'Undangan Khitan Alfonsus Briyan Rajendra Hartono',
+      meta: [
+        { charset: 'utf-8' },
+        // Image thumbnail
+        { name: 'image', property: 'og:image', content: '/cover.jpg' },
+        // Image thumbnail
+        { name: 'image', property: 'twitter:image', content: '/cover.jpg' },
+        // Image thumbnail
+        { name: 'image', property: 'twitter:image:src', content: '/cover.jpg' },
+        // Image thumbnail
+        { name: 'image', property: 'twitter:image:alt', content: '/cover.jpg' },
+        // description
+        { name: 'description', content: 'Undangan Khitan Alfonsus Briyan Rajendra Hartono Putra Bpk Bpk Mateus Priyo Indra Hartono, SE & Ibu Agata Asri Wijayaningsih, SE. MM' },
+      ],
     }
   }
 })
