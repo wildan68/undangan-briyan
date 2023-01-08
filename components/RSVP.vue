@@ -112,5 +112,5 @@ const postMsg = async () => {
   }
 }
 
-const dateFormat = (date) => dayjs(date).utcOffset(14).format('dddd, DD MMMM YYYY HH:mm')
+const dateFormat = (date) => dayjs(date).utcOffset(7).format('dddd, DD MMMM YYYY HH:mm')
 </script>
