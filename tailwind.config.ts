@@ -12,7 +12,7 @@ export default <Partial<Config>>{
       }
     }
   },
-  plugins: [],
+  plugins: [require("daisyui")],
   content: [
     `${srcDir}/components/**/*.{vue,js,ts}`,
     `${srcDir}/layouts/**/*.vue`,

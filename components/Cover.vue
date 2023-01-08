@@ -22,13 +22,16 @@
           Kepada Bpk/Ibu/Saudara/i
         </span>
         <span class="text-2xl lg:text-3xl">
-          SEMUA ORANG
+          {{ invitation ? capitalizeAfterSpace(invitation) : 'Semua Orang' }}
         </span>
         <span class="font-2 text-xl lg:text-2xl">
           Mohon maaf jika ada kesalahan nama & gelar
         </span>
-        <button class="bg-[#FFD8BA] hover:bg-[#fccfad] transition-all rounded-2xl py-6 px-8 flex gap-4 items-center">
-          <IconMail class="bg-inherit lg:w-8 lg:h-8 w-6 h-6" /> 
+        <button
+          class="btn"
+          @click="store.openInvitation = true"
+        >
+          <IconMail class="lg:w-8 lg:h-8 w-7 h-7" /> 
           <span class="text-xl lg:text-2xl">Buka Undangan</span>
         </button>
       </div>
@@ -37,5 +40,14 @@
 </template>
 
 <script setup>
+const store = useStore();
+  
+const route = useRoute()
+const invitation = computed(() => route.query.to) 
 
+const capitalizeAfterSpace = (str) => {
+  return str.replace(/\w\S*/g, (txt) => {
+    return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase()
+  })
+}
 </script>

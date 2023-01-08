@@ -1,0 +1,24 @@
+.btn {
+    background: #FFD8BA !important;
+    color: #6A2E00 !important;
+    border: none !important;
+    outline: none !important;
+    /* text no uppercase */
+    text-transform: none !important;
+    display: flex !important;
+    align-items: center !important;
+    height: auto !important;
+    width: auto !important;
+}
+
+.btn svg {
+    margin-right: 8px !important;
+}
+
+.input-group > :first-child {
+    background-color: #FFD8BA;
+}
+
+.toggle:checked, .toggle[checked="true"], .toggle[aria-checked=true] {
+background-color: #6A2E00;
+}

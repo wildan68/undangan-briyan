@@ -19,3 +19,21 @@ body {
 .font-2 {
     font-family: 'Francois One', sans-serif;
 }
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+  background-color: #FFC294;
+}
+
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #6A2E00; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #492102; 
+}

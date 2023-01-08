@@ -3,7 +3,7 @@ import db from './database/query'
 export default defineEventHandler(async (event) => {
   try {
     const { name, message, present } = await readBody(event)
-    if (!name || !message || !present) {
+    if (!name || !message) {
       return {
         status: 400,
         data: {
