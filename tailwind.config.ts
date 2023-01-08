@@ -26,5 +26,6 @@ export default <Partial<Config>>{
   ],
   daisyui: {
     darkTheme: false,
+    themes: false,
   },
 }
