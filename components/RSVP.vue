@@ -85,7 +85,6 @@ const fetchMsg = async () => {
     const { data } = await axios.get('/api/message')
 
     msgList.value = data?.data
-    console.log(data)
   }
   catch (err) {
     throw new Error(err)
