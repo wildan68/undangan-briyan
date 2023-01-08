@@ -21,7 +21,7 @@
         <span class="font-2 text-xl lg:text-2xl">
           Kepada Bpk/Ibu/Saudara/i
         </span>
-        <span class="text-2xl lg:text-3xl">
+        <span class="text-2xl lg:text-3xl text-center mx-auto">
           {{ invitation ? capitalizeAfterSpace(invitation) : 'Semua Orang' }}
         </span>
         <span class="font-2 text-xl lg:text-2xl">
