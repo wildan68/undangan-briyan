@@ -49,9 +49,11 @@
             <div class="flex justify-between items-center">
               <div class="flex flex-col">
                 <span class="text-xl">{{ d.name }}</span>
-                <span class="text-sm">{{ dateFormat(d.time) }}</span>
+                <span class="text-xs">Dikirim pada hari {{ dateFormat(d.time) }}</span>
               </div>
-              <span class="text-sm">{{ d.present ? 'Hadir' : 'Tidak Hadir' }}</span>
+              <div class="rounded-lg px-4 py-2 bg-[#6A2E00]">
+                <span class="text-sm text-white">{{ d.present ? 'Hadir' : 'Tidak Hadir' }}</span>
+              </div>
             </div>
             <span class="text-lg mt-5">{{ d.message }}</span>
           </div>
