@@ -85,7 +85,7 @@
     </div>
     <!--  -->
     <div class="relative w-full flex flex-col items-center mt-48">
-      <div class="w-1/2 absolute right-0 bottom-0 lg:mx-[-112px] flex flex-col gap-8 items-end">
+      <div class="w-1/2 absolute right-0 bottom-0 lg:mx-[-112px] mx-[-50px] flex flex-col gap-8 items-end">
         <div class="bg-[#F4A970]  rounded-tl-3xl rounded-bl-3xl h-[75px] w-full" />
         <div class="bg-[#F4A970]  rounded-tl-3xl rounded-bl-3xl h-[75px] w-[80%]" />
       </div>
@@ -104,7 +104,7 @@
     </div>
     <!--  -->
     <div
-      class="w-full min-h-[435px] bg-[#FFD8BA] mt-24 lg:mt-40 p-3 lg:p-20 rounded-2xl lg:rounded-[48px] flex justify-between relative lg:flex-row flex-col-reverse"
+      class="w-full min-h-[435px] bg-[#FFD8BA] mt-32 lg:mt-40 p-3 lg:p-20 rounded-2xl lg:rounded-[48px] flex justify-between relative lg:flex-row flex-col-reverse"
       data-aos="fade-right"
       data-aos-offset="300"
       data-aos-easing="ease-in-sine"
