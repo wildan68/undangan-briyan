@@ -111,7 +111,7 @@
     >
       <div class="flex absolute top-[-10%] lg:top-[-20%] right-0 left-0 lg:justify-end">
         <img
-          src="resepsi.png"
+          src="/resepsi.png"
           class=""
         >
       </div>
