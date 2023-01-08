@@ -1,6 +1,6 @@
 <template>
   <div class="min-h-screen p-6 lg:p-28 relative flex flex-col gap-6 lg:gap-12 overflow-x-hidden items-center">
-    <div class="fixed top-14 lg:top-24 right-14 lg:right-24 z-50">
+    <div class="fixed top-6 lg:top-24 right-6 lg:right-24 z-50">
       <!-- Pause -->
       <div
         v-if="!musicPlay"
@@ -118,7 +118,7 @@
       <div class="flex-1 flex items-center justify-center">
         <img src="/save-the-date.png">
       </div>
-      <div class="flex-1 flex flex-col items-center gap-6 lg:gap-12 justify-center lg:mt-0 mt-6">
+      <div class="flex-1 flex flex-col items-center gap-6 lg:gap-12 justify-center lg:mt-0 mt-20">
         <span class="text-2xl lg:text-5xl">Sabtu, 14 Januari 2023</span>
         <span class="text-2xl lg:text-5xl">Gedung Aula SD Pius</span>
         <span class="text-2xl lg:text-5xl text-center leading-[60px]">
