@@ -25,6 +25,6 @@ export default <Partial<Config>>{
     `${srcDir}/error.{js,ts,vue}`
   ],
   daisyui: {
-    darkTheme: "light",
+    darkTheme: false,
   },
 }
