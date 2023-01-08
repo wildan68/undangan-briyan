@@ -185,7 +185,7 @@
     </div>
     <!--  -->
     <div class="relative w-full z-0">
-      <div class="absolute lg:bottom-[-50px] bottom-[-50px] lg:h-[500px] h-[250px] lg:mb-[-3.5%] overflow-hidden left-0 right-0 flex justify-center">
+      <div class="absolute lg:bottom-[-50px] bottom-[-20px] lg:h-[500px] h-[250px] lg:mb-[-3.5%] overflow-hidden left-0 right-0 flex justify-center">
         <div class="lg:w-[1400px] lg:h-[1400px] w-[500px] h-[500px] bg-[#FFD8BA] rounded-full" />
       </div>
     </div>
