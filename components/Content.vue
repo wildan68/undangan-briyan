@@ -69,14 +69,18 @@
       data-aos="fade-down"
     >
       <div class="px-6 lg:px-14 py-7 text-center rounded-3xl flex flex-col gap-4 lg:gap-8">
-        <div class="text-2xl lg:text-4xl leading-10 lg:leading-[60px]">
+        <div class="text-2xl lg:text-4xl leading-10 lg:leading-[60px] text-[#774e2e]">
           Puji Syukur atas limpahan dan berkat-nya 
-          di Khitan Alfonsus Briyan Rajendra Hartono Putra dari
+          di Khitan 
+          <br>
+          <span class="text-3xl lg:text-5xl text-[#6A2E00]">Alfonsus Briyan Rajendra Hartono</span>
+          <br>
+          Putra dari
         </div>
-        <span class="text-3xl lg:text-5xl">Bpk Mateus Priyo Indra Hartono, SE</span>
-        <span class="text-3xl lg:text-5xl">&</span>
-        <span class="text-3xl lg:text-5xl">Ibu Agata Asri Wijayaningsih, SE. MM</span>
-        <div class="text-2xl lg:text-4xl mt-4 leading-10 lg:leading-[60px]">
+        <span class="text-3xl lg:text-5xl text-[#6A2E00]">Bpk Mateus Priyo Indra Hartono, SE</span>
+        <span class="text-3xl lg:text-5xl text-[#6A2E00]">&</span>
+        <span class="text-3xl lg:text-5xl text-[#6A2E00]">Ibu Agata Asri Wijayaningsih, SE. MM</span>
+        <div class="text-2xl lg:text-4xl mt-4 leading-10 lg:leading-[60px] text-[#774e2e]">
           Mohon do’a agar putra kami menjadi anak yang baik
           pintar, berbakti kepada orang tua & berguna bagi
           Nusa Bangsa, Masyarakat dan Agama.
@@ -95,7 +99,7 @@
       class="mx-auto flex flex-col gap-4 lg:gap-8 items-center"
       data-aos="zoom-out"
     >
-      <div class="text-2xl lg:text-4xl text-center leading-10 lg:leading-[60px]">
+      <div class="text-2xl lg:text-4xl text-center leading-10 lg:leading-[60px] text-[#774e2e]">
         Sebagai rasa puji syukur atas berkat & kemurahan kasih-nya
         Kami mengundang bapak/ibu/saudara/i untuk menghadiri
         Resepsi Syukuran Khitan Putra Kami
@@ -163,7 +167,7 @@
       data-aos="zoom-out-left"
     >
       <div
-        class="text-2xl lg:text-4xl leading-10 lg:leading-[60px] text-center"
+        class="text-2xl lg:text-4xl leading-10 lg:leading-[60px] text-center text-[#774e2e]"
       >
         Kesan yang mendalam akan terukir dihati kami
         apabila Bapak/Ibu/Saudara/i berkenan hadir
