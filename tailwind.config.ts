@@ -23,5 +23,8 @@ export default <Partial<Config>>{
     `${srcDir}/app.{js,ts,vue}`,
     `${srcDir}/Error.{js,ts,vue}`,
     `${srcDir}/error.{js,ts,vue}`
-  ]
+  ],
+  daisyui: {
+    darkTheme: "light",
+  },
 }
