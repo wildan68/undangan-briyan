@@ -12,8 +12,8 @@
 }
 
 body {
-    background: #FFC294;
-    color: #6A2E00;
+    background: #FFC294 !important;
+    color: #6A2E00 !important;
 }
 
 .font-2 {
