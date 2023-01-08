@@ -33,7 +33,10 @@ export default defineNuxtConfig({
     head: {
       link: [
         { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css' },
-      ]
+        // favicon
+        { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      ],
+      title: 'Undangan Khitan Alfonsus Briyan Rajendra Hartono',
     }
   }
 })
