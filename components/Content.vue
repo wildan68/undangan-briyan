@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen p-16 lg:p-28 relative flex flex-col gap-6 lg:gap-12 overflow-x-hidden items-center">
+  <div class="min-h-screen p-6 lg:p-28 relative flex flex-col gap-6 lg:gap-12 overflow-x-hidden items-center">
     <div class="fixed top-14 lg:top-24 right-14 lg:right-24 z-50">
       <!-- Pause -->
       <div
@@ -8,7 +8,7 @@
         @click="playMusic"
       >
         <IconPause class="w-12 h-12" />
-        <div class="group-hover:flex hidden flex-col items-center mt-4">
+        <div class="group-hover:flex group-hover:focus hidden flex-col items-center mt-4">
           <span class="font-2 text-2xl">P</span>
           <span class="font-2 text-2xl">A</span>
           <span class="font-2 text-2xl">U</span>
@@ -23,7 +23,7 @@
         @click="playMusic"
       >
         <IconPlay class="w-12 h-12" />
-        <div class="group-hover:flex hidden flex-col items-center mt-4">
+        <div class="group-hover:flex group-hover:focus hidden flex-col items-center mt-4">
           <span class="font-2 text-2xl">P</span>
           <span class="font-2 text-2xl">L</span>
           <span class="font-2 text-2xl">A</span>
@@ -40,8 +40,8 @@
       data-aos-easing="linear"
       data-aos-duration="500"
     >
-      <span class="lg:text-8xl text-5xl font-2">Undangan Khitanan</span>
-      <div class="px-14 py-7 bg-[#FFE0D3] rounded-3xl">
+      <span class="lg:text-8xl text-2xl font-2">Undangan Khitanan</span>
+      <div class="lg:px-14 px-4 py-3 lg:py-7 bg-[#FFE0D3] lg:rounded-3xl rounded-2xl">
         <span class="text-transparent bg-clip-text bg-gradient-to-r from-[#C35200] to-[#FFAB6A] font-2 lg:text-6xl text-2xl">
           Alfonsus Briyan Rajendra Hartono
         </span>
