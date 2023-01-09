@@ -70,7 +70,7 @@
     >
       <div class="px-6 lg:px-14 py-7 text-center rounded-3xl flex flex-col gap-4 lg:gap-8">
         <div class="text-2xl lg:text-4xl leading-10 lg:leading-[60px] text-[#774e2e]">
-          Puji Syukur atas limpahan dan berkat-nya 
+          Puji Syukur atas limpahan dan berkat-Nya 
           di Khitan 
           <br>
           <span class="text-3xl lg:text-5xl text-[#6A2E00]">Alfonsus Briyan Rajendra Hartono</span>
@@ -124,6 +124,7 @@
       </div>
       <div class="flex-1 flex flex-col items-center gap-6 lg:gap-12 justify-center lg:mt-0 mt-20">
         <span class="text-2xl lg:text-5xl">Sabtu, 14 Januari 2023</span>
+        <span class="text-2xl lg:text-5xl">Pukul 11.00 s/d 14.00 WIB</span>
         <span class="text-2xl lg:text-5xl">Gedung Aula SD Pius</span>
         <span class="text-2xl lg:text-5xl text-center leading-[60px]">
           Jl. Kapten Ismail No. 120
@@ -131,6 +132,8 @@
         </span>
       </div>
     </div>
+    <!--  -->
+    <Counting />
     <!--  -->
     <div class="w-full flex flex-col items-center">
       <div class="mx-auto px-7 py-5 rounded-tl-3xl rounded-tr-3xl text-2xl bg-[#FFD8BA]">

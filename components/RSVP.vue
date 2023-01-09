@@ -51,11 +51,11 @@
                 <span class="text-xl">{{ d.name }}</span>
                 <span class="text-xs">Dikirim pada hari {{ dateFormat(d.time) }}</span>
               </div>
-              <div class="flex-1 flex justify-end">
+              <!-- <div class="flex-1 flex justify-end">
                 <div class="rounded-lg px-4 py-2 bg-[#6A2E00] w-fit">
                   <span class="text-xs text-center text-white">{{ d.present ? 'Hadir' : 'Tidak Hadir' }}</span>
                 </div>
-              </div>
+              </div> -->
             </div>
             <span class="text-lg mt-5">{{ d.message }}</span>
           </div>
