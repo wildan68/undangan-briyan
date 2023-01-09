@@ -114,7 +114,7 @@ onMounted(() => {
 })
 
 const saveTheDate = () => {
-  const link = `https://calendar.google.com/calendar/u/0/r/eventedit?text=Khitan+Alfonsus+Briyan+Rajendra+Hartono&dates=20230114T040000Z/20230114T070000Z&pli=1`
+  const link = `https://calendar.google.com/calendar/u/0/r/eventedit?text=Resepsi+Khitanan+Alfonsus+Briyan+Rajendra+Hartono&dates=20230114T040000Z/20230114T070000Z&pli=1`
   window.open(link, '_blank');
 }
 </script>
