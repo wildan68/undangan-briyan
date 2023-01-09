@@ -1,6 +1,6 @@
 <template>
   <div class="flex flex-col gap-4 items-center">
-    <span class="text-2xl">Counting Days</span>
+    <span class="text-2xl lg:text-4xl">Counting Days</span>
     <div class="flex justify-center gap-4">
       <div class="p-3 rounded-xl bg-[#FFD8BA] flex flex-col items-center gap-2 min-w-[78px] lg:min-w-[120px]">
         <span class="font-2 text-2xl lg:text-5xl">{{ days }}</span>
