@@ -100,7 +100,7 @@
       data-aos="zoom-out"
     >
       <div class="text-2xl lg:text-4xl text-center leading-10 lg:leading-[60px] text-[#774e2e]">
-        Sebagai rasa puji syukur atas berkat & kemurahan kasih-nya
+        Sebagai rasa puji syukur atas berkat & kemurahan kasih-Nya
         Kami mengundang bapak/ibu/saudara/i untuk menghadiri
         Resepsi Syukuran Khitan Putra Kami
         yang akan di selenggarakan pada:
@@ -182,9 +182,9 @@
     <div
       class="mx-auto flex flex-col items-center gap-4 lg:gap-8 mt-24 z-20"
     >
-      <span class="text-xl lg:text-4xl">Kami Yang Berbahagia</span>
-      <span class="text-3xl lg:text-6xl text-center">Kel. Bpk Mateus Priyo Indra Hartono, SE</span>
-      <span class="text-2xl lg:text-4xl text-center">Citraland Blok B5 No. 26 Kota Tegal</span>
+      <span class="text-lg lg:text-3xl">Kami Yang Berbahagia</span>
+      <span class="text-2xl lg:text-5xl text-center">Kel. Bpk Mateus Priyo Indra Hartono, SE</span>
+      <span class="text-xl lg:text-4xl text-center">Citraland Blok B5 No. 26 Kota Tegal</span>
     </div>
     <!--  -->
     <div class="relative w-full z-0">
