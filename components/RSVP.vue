@@ -40,7 +40,7 @@
       </div>
       <div class="flex flex-col flex-1 gap-4">
         <span class="text-2xl">Ucapan & Do'a</span>
-        <div class="flex flex-col gap-2 h-[350px] overflow-y-scroll">
+        <div class="flex flex-col gap-2 max-h-[350px] overflow-y-scroll">
           <div
             v-for="(d, i) in msgList"
             :key="i"
