@@ -59,6 +59,12 @@
             </div>
             <span class="text-lg mt-5">{{ d.message }}</span>
           </div>
+          <div
+            v-if="msgList.length === 0"
+            class="text-center mx-auto"
+          >
+            Belum ada ucapan & do'a
+          </div>
         </div>
       </div>
     </div>
