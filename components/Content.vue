@@ -70,14 +70,14 @@
     >
       <div class="px-6 lg:px-14 py-7 text-center rounded-3xl flex flex-col gap-4 lg:gap-8">
         <div class="text-2xl lg:text-4xl leading-10 lg:leading-[60px] text-[#774e2e]">
-          Puji Syukur atas limpahan dan berkat-Nya 
-          di Khitan 
+          Puji Syukur atas limpahan rahmat dan berkat-Nya 
+          telah di Khitan 
           <br>
           <span class="text-3xl lg:text-5xl text-[#6A2E00]">Alfonsus Briyan Rajendra Hartono</span>
           <br>
           Putra dari
         </div>
-        <span class="text-3xl lg:text-5xl text-[#6A2E00]">Bpk Mateus Priyo Indra Hartono, SE</span>
+        <span class="text-3xl lg:text-5xl text-[#6A2E00]">Bpk Mateus Priyo Indro Hartono, SE</span>
         <span class="text-3xl lg:text-5xl text-[#6A2E00]">&</span>
         <span class="text-3xl lg:text-5xl text-[#6A2E00]">Ibu Agata Asri Wijayaningsih, SE. MM</span>
         <div class="text-2xl lg:text-4xl mt-4 leading-10 lg:leading-[60px] text-[#774e2e]">
